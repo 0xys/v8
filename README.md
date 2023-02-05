@@ -38,3 +38,10 @@ Contributing
 
 Please follow the instructions mentioned at
 [v8.dev/docs/contribute](https://v8.dev/docs/contribute).
+
+Getting Started
+=============
+https://v8.dev/docs/source-code#using-git
+https://v8.dev/docs/embed#advanced-guide
+console.log: https://gist.github.com/tejom/d335a6ab1ac86b45f149e5c10e14b132
+
