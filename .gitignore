@@ -112,3 +112,4 @@ bazel-v8
 
 *.dat
 hello_world
+.envrc
