@@ -45,3 +45,8 @@ https://v8.dev/docs/source-code#using-git
 https://v8.dev/docs/embed#advanced-guide
 console.log: https://gist.github.com/tejom/d335a6ab1ac86b45f149e5c10e14b132
 
+## build
+```
+g++ -I. -Iinclude samples/hello-world.cc -o hello_world -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -Lout.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS
+```
+
